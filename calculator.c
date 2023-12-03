@@ -2,6 +2,6 @@
 
 int calculate(int a, int b)
 {
-  // A different Calculation
-  return a*b*2 -10;
+	// A combination of both calculations
+	retur a*b*2-10+(a+b);
 }
